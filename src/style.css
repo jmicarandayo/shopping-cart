@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto';
+}
+.inputField {
+  padding: 0.5em;
+}
+.padding-1 {
+  padding: 0.5em;
+}
+span {
+  font-weight: 600;
+}
+.title-header {
+  margin: 1em;
+  font-size: 3rem;
+}
+
+td {
+  padding: 0.2em 1.5em;
+}
+th {
+  font-size: 1.2em;
+}
+.total-display {
+  font-size: 2em;
+  margin-top: 2em;
+  padding-top: 2em;
+}
